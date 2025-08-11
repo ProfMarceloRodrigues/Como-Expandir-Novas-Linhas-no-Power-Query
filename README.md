@@ -1,0 +1,1 @@
+# Como-Expandir-Novas-Linhas-no-Power-Query
